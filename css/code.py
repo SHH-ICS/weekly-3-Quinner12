@@ -1,3 +1,6 @@
+# I'm not sure who wrote this code, but it's got the exact same spelling errors in the comments as one of your classmates.  
+
+
 import math
 while True:
 #pizza size imput
